@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Benicioslz
 - 👀 I’m interested in Python for Data Science
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and R
 - 💞️ I’m looking to collaborate on projects using machine learning, deep learning and others...
 - 📫 How to reach me ...
 
